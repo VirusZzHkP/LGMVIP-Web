@@ -13,4 +13,7 @@ This repository is for 'Lets Grow More' Internship
 
 <h3>Calculator - First Look</h3>
 <img src="assets/../Calculator/assets/calculator.png" width="70%">
+
+<h3>Student Enrollment System - First Look</h3>
+<img src="assets/../Student%20Enrollment%20System/assets/StudentenrollmentSystem.png" width="70%">
 </div>

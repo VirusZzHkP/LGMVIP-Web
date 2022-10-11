@@ -10,4 +10,7 @@ This repository is for 'Lets Grow More' Internship
 <div align="center">
 <h3>To Do List - First Look</h3>
 <img src="assets/../To%20Do%20List/assets/todolist.png" width="70%">
+
+<h3>Calculator - First Look</h3>
+<img src="assets/../Calculator/assets/calculator.png" width="70%">
 </div>

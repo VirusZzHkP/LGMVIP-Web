@@ -18,5 +18,5 @@ This repository is for 'Lets Grow More' Internship
 <img src="assets/../Student%20Enrollment%20System/assets/StudentenrollmentSystem.png" width="70%">
 
 <h3>Student_Result_Management_System - First Look</h3>
-<img src="assets/../Student%20Enrollment%20System/assets/StudentenrollmentSystem.png" width="70%">
+<img src="Student_Result_Management_System\images\srms.png" width="70%">
 </div>
